@@ -22,7 +22,7 @@
  
 3 其它
 图片
-![图片名称](http://gitcafe.com/image.png)
+![图片名称](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png)
 链接
 [链接名称](http://gitcafe.com)
 引用
